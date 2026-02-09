@@ -1,3 +1,18 @@
 html body {
-    background-color: lightblue;
+    background-color: lightskyblue;
+  }
+
+
+  h1 {
+    font-size: 72px;
+    color: black;
+  }
+  p{
+    font-size: 48px;
+   
+  }
+  
+  body {
+    font-size: 18px;
+     color: yellow;
   }
