@@ -12,8 +12,12 @@ html body {
    
   }
   
+
+  a {
+    font-size: ; size: 10px;
+     color: blue;
+  }
   body {
-    font-size: 18px;
+    font-size: 31px;
      color: yellow;
-     
   }
