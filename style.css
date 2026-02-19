@@ -12,6 +12,9 @@ html body {
    
   }
   
+  main{
+    color: #21a815;
+  }
 
   a {
     font-size: size 10px;
@@ -22,3 +25,17 @@ html body {
     font-size: 31px;
      color: yellow;
   }
+
+/* Add a reusable class to place a border around lists */
+.bordered-list {
+  border: 3px solid #333;
+  padding: 10px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.06);
+  list-style-position: inside;
+  margin: 1em 0;
+}
+
+.bordered-list li {
+  padding: 6px 4px;
+}
