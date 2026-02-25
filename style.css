@@ -18,7 +18,12 @@ html body {
 
   a {
     font-size: size 10px;
-     color: blue;
+     color: black;
+  }
+
+  nav{
+    background-color: grey;
+    border: 2px solid black;
   }
 
   body {
